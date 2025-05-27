@@ -13,7 +13,6 @@
       height: 100vh;
       margin: 0;
     }
-
     .outer-container {
       background: orange;
       width: 220px;
@@ -23,7 +22,6 @@
       position: relative;
       overflow: hidden;
     }
-
     .content-container {
       position: absolute;
       top: 100px;
@@ -34,7 +32,6 @@
       align-items: center;
       box-sizing: border-box;
     }
-
     .box {
       width: 80%;
       height: 60px;
