@@ -13,8 +13,6 @@
       text-align: left;
       padding: 8px;
     }
-
-    /* Style for the second table */
     .fancy-table {
       border: 2px solid #3cb4ac;
       border-radius: 15px;
